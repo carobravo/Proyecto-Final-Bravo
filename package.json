@@ -1,11 +1,11 @@
 {
-  "name": "pre-entrega-2-bravo",
+  "name": "pre-entrega-3-bravo",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jorge Bravo",
   "license": "ISC",
   "description": ""
 }
